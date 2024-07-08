@@ -1,0 +1,1 @@
+Building a smart door access system using facial recognition technology using the Viola-Jones (Haar Cascade) algorithm for face detection and the LBPH (Linear Binary Pattern Histogram) algorithm for feature extraction.
